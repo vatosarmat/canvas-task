@@ -1,0 +1,10 @@
+.scoreBar {
+  grid-column-start: span 3;
+  display: flex;
+  justify-content: center;
+  gap: 32px;
+}
+
+.scoreBarScore {
+  font-size: 24px;
+}
